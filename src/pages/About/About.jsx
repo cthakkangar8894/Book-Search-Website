@@ -16,9 +16,13 @@ const About = () => {
           </div>
           <div className='about-text'>
             <h2 className='about-title fs-26 ls-1'>About BookHub</h2>
-            <p className='fs-17'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus dignissimos consequuntur vero commodi provident maiores, iusto atque corrupti voluptate vel sequi consectetur unde aliquam corporis saepe animi non, tempora reiciendis molestias sed laudantium dolores. Assumenda aperiam fuga quo voluptate commodi ullam aliquam expedita voluptas delectus.</p>
-            <p className='fs-17'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor, dicta, possimus inventore eveniet atque voluptatibus repellendus aspernatur illo aliquam dignissimos illum. Commodi, porro omnis dolore amet neque modi quas eum!</p>
+            <h4>"A book is a dream that you hold in your hands." – Neil Gaiman</h4>
+            <p className='fs-17'>Welcome to BookHub, your ultimate destination for discovering books and exploring knowledge. Whether you’re searching for a classic masterpiece, a modern bestseller, or a hidden gem, BookHub helps you find the right book with ease.</p>
+            <p className='fs-17'>Our platform provides detailed information about books, including the title, author, edition, and a brief summary, allowing you to explore and choose the perfect read. With an intuitive search system, you can quickly find books across various genres, authors, and topics.</p>
+            <p className='fs-17'>At BookHub, we believe that books are the key to endless learning and imagination. Our goal is to make book discovery effortless, ensuring that every reader can access valuable information and find stories that inspire, educate, and entertain.</p>
+            <p className='fs-17'>Start your journey through the world of books today. BookHub—where every book has a story, and every story finds its reader.</p>
           </div>
+
         </div>
       </div>
     </section>
